@@ -1,2 +1,2 @@
-# Test_Suit_Optimization_using_Apriori
-Test_Suit_Optimization_using_Apriori
+# Test_Suite_Optimization_using_Apriori
+Test_Suite_Optimization_using_Apriori
